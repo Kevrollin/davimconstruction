@@ -1,0 +1,90 @@
+{
+  "architectural-detail": {
+    "widths": [
+      640,
+      960,
+      1200
+    ],
+    "width": 2400,
+    "height": 3599
+  },
+  "construction-frame": {
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "width": 2400,
+    "height": 1748
+  },
+  "fabrication-welding": {
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "width": 2400,
+    "height": 1600
+  },
+  "facade-detail": {
+    "widths": [
+      640,
+      960,
+      1200
+    ],
+    "width": 2400,
+    "height": 3600
+  },
+  "hero-modern-residence": {
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "width": 2400,
+    "height": 2013
+  },
+  "interior-finishing": {
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "width": 2400,
+    "height": 1632
+  },
+  "landscaped-residence": {
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "width": 2400,
+    "height": 1600
+  },
+  "rebar-groundwork": {
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "width": 2400,
+    "height": 1590
+  },
+  "site-coordination": {
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "width": 2400,
+    "height": 1600
+  }
+}
